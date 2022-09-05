@@ -4,10 +4,12 @@
 
                 npm install --save-dev parcel-transformer-hbs
 
-уфайлі треба добавити налаштування
+уфайлі .parcelrc треба добавити налаштування (при використані збірки парсел)
 
                 "transformers": {
                 "\*.hbs": [
                 "parcel-transformer-hbs"
                 ]
                 }
+
+nulling-styles.scss
