@@ -1,13 +1,13 @@
 # basic-settings
 
-<!-- налаштуваня hbs -->
+налаштуваня hbs
 
 npm install --save-dev parcel-transformer-hbs
 
-<!-- уфайлі   треба добавити налаштування -->
+уфайлі треба добавити налаштування
 
-  <!-- "transformers": {
-    "*.hbs": [
-      "parcel-transformer-hbs"
-    ]
-  } -->
+"transformers": {
+"\*.hbs": [
+"parcel-transformer-hbs"
+]
+}
