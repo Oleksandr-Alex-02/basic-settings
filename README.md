@@ -33,3 +33,23 @@ https://axios-http.com/docs/intro
             .catch(function (error) {
             console.log(error);
             })
+
+налаштування повідомленнь https://github.com/notiflix/Notiflix#readme
+
+            Notiflix.Notify.success('Sol lucet omnibus');
+
+            Notiflix.Notify.failure('Qui timide rogat docet negare');
+
+            Notiflix.Notify.warning('Memento te hominem esse');
+
+            Notiflix.Notify.info('Cogito ergo sum');
+
+додаткові налаштування
+
+            Notiflix.Notify.init({
+                width: '400px',
+                position: 'right-top',
+                distance: '10px',
+                borderRadius: '50px',
+                timeout: 3000,
+                });
