@@ -17,7 +17,7 @@ https://axios-http.com/docs/intro
 
                 npm install axios
 
-                const axios = require('axios').default;
+            const axios = require('axios').default;
 
 приклад axios
 
